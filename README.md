@@ -4,7 +4,7 @@ Official repository for _"Explainability and Hate Speech: Structured Explanation
 
 ## Annotation Scheme
 
-
+The file `annotations.csv` contains the collected annotations after filtering out the outliers (see papers for details).
 
 ## Reference
 If you use our dataset or model, please cite our paper:
